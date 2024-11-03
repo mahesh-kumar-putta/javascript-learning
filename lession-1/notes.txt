@@ -1,0 +1,10 @@
+Lession-1
+  How to add css and js file in html
+  Why do we put js file at the bottom
+Lession-2
+  Variable: A container that contains a value
+  Different ways to represent string
+  String literals
+  let keyword
+  typeof keyword
+
