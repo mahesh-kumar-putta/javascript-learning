@@ -8,4 +8,15 @@ Lession-2
   let keyword
   typeof keyword
 Lession-3
-  
+  Arithmetic operators
+  Exponent value
+  operator precedence
+  left to right - 
+    parenthesis
+    exponents
+    multiplication, division, modulo
+    addition and subtraction
+Lession-4
+  How to accept user input
+    window prompt
+    HTML Textbox
