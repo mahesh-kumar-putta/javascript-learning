@@ -24,3 +24,5 @@ Lession-5
   Type conversions
 Lession-6
   Constants  
+Lession-7
+  Counter Programm
