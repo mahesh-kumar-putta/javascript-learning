@@ -25,4 +25,6 @@ Lession-5
 Lession-6
   Constants  
 Lession-7
-  Counter Programm
+  Counter Program
+Lession-8
+  Math Object
