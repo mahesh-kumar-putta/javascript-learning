@@ -32,3 +32,5 @@ Lession-9
   Random number generator
 Lession-10
   If statements
+Lession-11
+  Checked Property
