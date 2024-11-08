@@ -34,3 +34,6 @@ Lession-10
   If statements
 Lession-11
   Checked Property
+Lession-12
+  Ternary operator
+
