@@ -40,4 +40,5 @@ Lession-13
   Switch
 Lession-14
   String methods
-
+Lession-15
+  String slicing
