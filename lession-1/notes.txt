@@ -45,4 +45,12 @@ Lession-15
 Lession-16
  Method Chaining
 Lession-17
-  
+  Logical Opetators
+Lession-18
+  Equality
+  = : Assignment operator
+  ==:comparision operator ( checks if values are equal)
+  ===: comparision operator ( checks if values and datatype are equal)
+  != : Inequality operator
+  !==: Strict Inequality operator
+
