@@ -42,3 +42,7 @@ Lession-14
   String methods
 Lession-15
   String slicing
+Lession-16
+ Method Chaining
+Lession-17
+  
