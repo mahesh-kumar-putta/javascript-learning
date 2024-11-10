@@ -61,5 +61,9 @@ Lession-22
 
   }
 Lession-24
-Temperature conversion programme
+  Temperature conversion programme
+Lession-25
+  Arrays
+Lession-26
+  Spread operator
 
