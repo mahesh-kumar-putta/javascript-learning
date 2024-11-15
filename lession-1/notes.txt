@@ -72,3 +72,7 @@ Lession-30
   Callbacks
 Lession-31
   forEach()
+Lession-32
+  map()
+Lession-33
+  filter()
