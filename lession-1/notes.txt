@@ -76,3 +76,5 @@ Lession-32
   map()
 Lession-33
   filter()
+Lession-34
+  reduce()
