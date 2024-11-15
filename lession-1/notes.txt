@@ -70,3 +70,5 @@ Lession-27
   Rest Operator
 Lession-30
   Callbacks
+Lession-31
+  forEach()
