@@ -80,3 +80,5 @@ Lession-34
   reduce()
 Lession-35
   Function Expression
+Lession-36
+  Arrow function
