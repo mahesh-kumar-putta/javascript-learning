@@ -2,6 +2,8 @@
 
 // person.name is same as this.name;
 
+// this keyword won't work with arrow object
+
 const person = {
   firstName : "Mahesh",
   lastName : "Kumar",
