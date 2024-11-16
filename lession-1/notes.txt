@@ -93,3 +93,5 @@ Lession-40
   Classes
 Lession-41
   static keyword
+Lession-42
+  Inheritance
