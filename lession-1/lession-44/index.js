@@ -49,5 +49,6 @@ const rectangle1 = new Reactange(23,23);
 console.log(rectangle1.height);
 console.log(rectangle1.width);
 
+//observe this
 console.log(rectangle1.area);
 
